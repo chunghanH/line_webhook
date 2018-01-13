@@ -1,0 +1,23 @@
+{
+  "name": "line_webhook",
+  "version": "1.0.0",
+  "description": "webhook server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chunghanH/line_webhook.git"
+  },
+  "author": "chunghanH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chunghanH/line_webhook/issues"
+  },
+  "homepage": "https://github.com/chunghanH/line_webhook#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "linebot": "^1.3.0"
+  }
+}
